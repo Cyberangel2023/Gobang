@@ -1,0 +1,2 @@
+D:\code\VS\Project\Project7\x64\Debug\Project7.exe
+D:\code\VS\Project\Project7（五子棋（双人））\x64\Debug\Project7.exe

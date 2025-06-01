@@ -1,0 +1,8 @@
+﻿  game.c
+D:\code\VS\Project\Project7\game.c(150,20): warning C4047: “==”:“char [15]”与“int”的间接级别不同
+  正在生成代码
+  1 of 16 functions ( 6.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project7.vcxproj -> D:\code\VS\Project\Project7\x64\Release\Project7.exe

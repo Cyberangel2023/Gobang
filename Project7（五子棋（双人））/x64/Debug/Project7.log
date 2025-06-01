@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+D:\code\VS\Project\Project7（五子棋（双人））\game.c(158,20): warning C4047: “==”:“char [15]”与“int”的间接级别不同
+  正在生成代码...
+  Project7.vcxproj -> D:\code\VS\Project\Project7（五子棋（双人））\x64\Debug\Project7.exe
